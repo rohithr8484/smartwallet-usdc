@@ -1,6 +1,4 @@
-# 💸 Easy2Pay 💸
-
-💸 dApp for requesting payments specifying a reason, and sharing the request with a link or a QR code.
+payments, and sharing the request with a link or a QR code.
 
 Future versions will feature payment using different tokens (stablecoin, WBTC) using [Chainlink Price Feeds](https://docs.chain.link/data-feeds/price-feeds).
 
